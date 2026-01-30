@@ -1,0 +1,23 @@
+# Data directories - too large for git, can be regenerated
+data/
+Houses-dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
